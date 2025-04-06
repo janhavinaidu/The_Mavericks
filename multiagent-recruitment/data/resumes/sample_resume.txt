@@ -1,0 +1,33 @@
+Name: Ananya Sharma  
+Email: ananya.sharma@example.com  
+Phone: +91 9876543210  
+
+Summary:  
+A highly motivated Python Developer with 3+ years of experience in building scalable web applications and APIs. Proficient in Django, Flask, and modern JavaScript frameworks.
+
+Skills:  
+- Programming: Python, JavaScript, HTML, CSS  
+- Frameworks: Django, Flask, React  
+- Databases: PostgreSQL, MySQL, SQLite  
+- Tools: Git, Docker, Postman  
+
+Education:  
+Bachelor of Technology in Computer Science, VIT University, Vellore — 2019  
+
+Experience:  
+Python Developer – Infosys Ltd.  
+June 2020 – Present  
+- Developed REST APIs using Django REST Framework  
+- Integrated PostgreSQL databases and optimized queries  
+- Collaborated with frontend team using React.js  
+
+Certifications:  
+- Python for Everybody – Coursera  
+- Docker Essentials – IBM Skills Network  
+
+Projects:  
+- Online Learning Portal using Django  
+- Expense Tracker App using Flask and React
+
+Languages:  
+- English, Hindi  
